@@ -1,3 +1,4 @@
+# Kiem thu luong worker, queue, demo, random va file log.
 import json
 import tempfile
 import unittest

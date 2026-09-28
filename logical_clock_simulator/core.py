@@ -1,3 +1,4 @@
+# Cai dat quy tac Lamport, vector clock va phat hien quan he dong thoi.
 """Pure logical-clock mechanics used by the worker threads and tests.
 
 The engine deliberately owns one mutable clock state.  A simulator creates one

@@ -1,3 +1,4 @@
+# Quan ly ba worker, queue message va log cua bo mo phong.
 """Threaded three-process simulator and structured logging."""
 
 from __future__ import annotations

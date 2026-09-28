@@ -1,3 +1,4 @@
+# Kiem thu quy tac clock va so sanh vector cua bo mo phong.
 import unittest
 
 from logical_clock_simulator.core import (

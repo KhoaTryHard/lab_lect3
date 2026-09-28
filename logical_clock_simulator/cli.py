@@ -1,3 +1,4 @@
+# Cung cap giao dien dong lenh cho che do demo va random.
 """Command-line entry point."""
 
 from __future__ import annotations
